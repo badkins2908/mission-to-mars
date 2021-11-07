@@ -5,4 +5,5 @@ The purpose of this project is to use BeautifulSoup and Splinter to scrape full-
 
 ## Results
 The resulting HTML site, looks as follows:
+
 <img src="Resources/html_site.png" width="500" height="700"> 
